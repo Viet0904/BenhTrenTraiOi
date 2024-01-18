@@ -14,8 +14,8 @@ data_path = "./x84p2g3k6z-1/Guava_Dataset_Original_Image"
 augmented_data_path = "./x84p2g3k6z-1/Guava_Disease_Augmented_Image"  # Thay đổi đường dẫn tới thư mục tập dữ liệu tăng cường
 
 # Kích thước bạn muốn sử dụng cho hình ảnh
-image_width = 214
-image_height = 214 
+image_width = 512
+image_height = 512 
 
 
 # Hàm đọc dữ liệu với mã hóa one-hot
